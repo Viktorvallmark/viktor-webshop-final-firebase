@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viktor-webshop-final-webshop/static/css/main.e6c13ad2.css",
+    "main.js": "/viktor-webshop-final-webshop/static/js/main.9dd19320.js",
+    "index.html": "/viktor-webshop-final-webshop/index.html",
+    "main.e6c13ad2.css.map": "/viktor-webshop-final-webshop/static/css/main.e6c13ad2.css.map",
+    "main.9dd19320.js.map": "/viktor-webshop-final-webshop/static/js/main.9dd19320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9dd19320.js"
+  ]
+}
